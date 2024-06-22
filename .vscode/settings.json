@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "io_context": "cpp",
+        "iostream": "cpp"
+    }
+}
